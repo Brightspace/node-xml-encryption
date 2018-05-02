@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/auth0/node-xml-encryption.png)](https://travis-ci.org/auth0/node-xml-encryption)
 
- Temporary fork to fix a licensing issue
+*Temporary fork to fix a licensing issue*
 
 W3C XML Encryption implementation for node.js (http://www.w3.org/TR/xmlenc-core/)
 
